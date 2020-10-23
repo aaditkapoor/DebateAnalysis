@@ -1,0 +1,15 @@
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
+pandas
+wordcloud
+textblob
+numpy
+nltk
+matplotlib
+seaborn
+gensim
+ipywidgets
+requests
