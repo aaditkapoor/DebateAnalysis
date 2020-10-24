@@ -12,6 +12,8 @@ The dataset contains YouTube comments on the most popular/watched VP and Preside
 # YouTube Comments Extraction
 The following function defines the video_ids we scrap and some basic extraction code. We get our data in the form of JSON, then we perform preprocessing and ultimately combine all comments followed by the sentiment score (using TextBlob) into a DataFrame.
  
+ # Medium
+ https://aaditkapoorthoughts.medium.com/vice-presidential-and-presidential-debate-analysis-using-data-science-61d542f0c974
  
 # Interactive Notebook
 
